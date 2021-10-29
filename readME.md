@@ -103,15 +103,7 @@ Um super thanks 👏 para o professor [Tulio Faria](https://www.linkedin.com/in/
 
 ---
 
-## 📝 Licença
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-## **Autor**
-
----
+## 🦸 **Autor**
 
 <a href="https://github.com/osiasmiranda">
  <img style="border-radius:50%" src="https://github.com/osiasmiranda.png" width="100px;" alt="foto perfil">
@@ -122,3 +114,11 @@ Feito com ❤️ por Osias Miranda 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-osiasmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osiasmiranda/)](https://www.linkedin.com/in/osias-miranda-57b67a4b/)
 [![Gmail Badge](https://img.shields.io/badge/-osiasmiranda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osiasmiranda@gmail.com)](mailto:osiasmiranda@gmail.com)
+
+---
+
+## 📝 Licença
+
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
