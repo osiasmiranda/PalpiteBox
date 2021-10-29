@@ -75,6 +75,7 @@ Este projeto pode ser colocado em produção utilizando o Vercel. É necessário
 
 ```bash
 # Clone este repositório
+ https://github.com/osiasmiranda/PalpiteBox.git
 
 # Instale as dependências
 $ npm install
