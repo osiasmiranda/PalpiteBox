@@ -14,10 +14,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="##-tecnologias">Tecnologias</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-autor">Autor</a> 
+ <a href="#-Autor">Autor</a> 
 </p>
 
 ## 💻 Sobre o projeto
@@ -108,7 +108,7 @@ Um super thanks 👏 para o professor [Tulio Faria](https://www.linkedin.com/in/
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-### **Autor**
+## **Autor**
 
 ---
 
