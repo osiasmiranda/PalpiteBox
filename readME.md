@@ -113,7 +113,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 ---
 
 <a href="https://github.com/osiasmiranda">
- <img style="border-radius: 50%;" src="https://github.com/osiasmiranda.png" width="100px;" alt="foto perfil"/>
+ <img style="border-radius: 50%" src="https://github.com/osiasmiranda.png" width="100px;" alt="foto perfil">
  <br />
  <sub><b>Osias Miranda</b></sub></a> <a href="https://github.com/osiasmiranda" title="githubosias">🚀</a>
 
