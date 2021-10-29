@@ -103,7 +103,7 @@ Um super thanks 👏 para o professor [Tulio Faria](https://www.linkedin.com/in/
 
 ---
 
-## 🦸 **Autor**
+## 🦸‍♂️ **Autor**
 
 <a href="https://github.com/osiasmiranda">
  <img style="border-radius:50%" src="https://github.com/osiasmiranda.png" width="100px;" alt="foto perfil">
