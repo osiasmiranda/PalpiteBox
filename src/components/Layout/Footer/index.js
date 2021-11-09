@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='container flex flex-wrap text-white items-end justify-center'>
         <p>&copy;2021. Projeto Desenvolvido por - Osias Miranda&reg;</p>
         <div>
-          <a href='https://github.com/osiasmiranda' target='_blank'>
+          <a href='https://github.com/osiasmiranda/PalpiteBox' target='_blank'>
             <img
               className='rounded bg-white mx-4 '
               align='center'
