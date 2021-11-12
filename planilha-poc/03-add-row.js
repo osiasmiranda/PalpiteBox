@@ -2,9 +2,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 
 const credentials = require('./credentials.json');
 
-const doc = new GoogleSpreadsheet(
-  '1huFSNM906DII6Nbthec-AEXDfJZT1mMUJa5ieFee7NA'
-);
+const doc = new GoogleSpreadsheet('');
 
 const run = async () => {
   try {
@@ -13,9 +11,9 @@ const run = async () => {
     const sheet = doc.sheetsByIndex[1];
     //Nome	Email	Whatsapp	Cupom	Promo
     await sheet.addRow({
-      Nome: 'Osias Miranda',
-      Email: 'osiasmiranda@gmail.com',
-      Whatsapp: '92991020034',
+      Nome: 'teste',
+      Email: 'teste@tst.com',
+      Whatsapp: '992929292929',
       Cupom: 'aaa111',
       Promo: 'acasarass',
     });
