@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import useSWR from "swr";
+import PageTitle from "../components/Layout/PageTitle";
 
 const fetcher = (...args) => fetch(...args).then((res) => res.json());
 
@@ -8,6 +9,7 @@ const index = () => {
   const { data, error } = useSWR("/api/get-promo", fetcher);
   return (
     <div className=' container flex flex-wrap justify-center'>
+      <PageTitle title='Home' />
       <div className='container flex flex-wrap justify-center mt-10 text-2xl font-bold'>
         <p className='text-center'>
           O Restaurante X sempre busca por atender melhor seus clientes.
