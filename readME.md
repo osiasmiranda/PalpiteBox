@@ -2,7 +2,7 @@
     <img width='120px' alt="PalpiteBox" title="#PalpiteBox" src="public/Assets/logo_palpitebox.png" />
 </h1>
 <h1 align="center"> 
-	🚧  PalpiteBox ♻️ Em Construção...👨‍🔧 🚧
+	🚧  PalpiteBox ♻️ Concluído 🥳...👨‍🔧 🚧
 </h1>
 
 <p align="center">
