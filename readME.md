@@ -64,6 +64,8 @@ O layout da aplicação está disponível no Figma:
 
 Uma versão online deste projeto pode ser encontrada em:
 
+https://palpite-box-k62pzbv51-osiasmiranda.vercel.app/
+
 ---
 
 ## ⚙️ **Pré-requisitos**
