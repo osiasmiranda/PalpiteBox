@@ -1,7 +1,7 @@
 import { GoogleSpreadsheet } from "google-spreadsheet";
 import moment from "moment";
 
-const doc = new GoogleSpreadsheet(rocess.env.SHEET_DOC_ID);
+const doc = new GoogleSpreadsheet(process.env.SHEET_DOC_ID);
 
 const genCupom = () => {
   const code = parseInt(moment().format("YYMMDDHHmmssSSS"))
