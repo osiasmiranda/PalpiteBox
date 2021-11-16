@@ -97,11 +97,12 @@ SHEET_DOC_ID=id da planilha
 
 ## 👨‍💻 **Facilitador**
 
-Um super thanks 👏 para o professor [Tulio Faria](https://www.linkedin.com/in/tuliofaria/) [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliofaria/)](https://www.linkedin.com/in/tuliofaria/) criador do treinamento **FULLSTACK MASTER**
+Um super thanks 👏 para o professor :<br/>
+<a href="https://github.com/tuliofaria">
+<img style="border-radius:50%" src="https://github.com/tuliofaria.png" width="100px;" alt="foto perfil"/>
+<sub><b> [Tulio Faria](https://www.linkedin.com/in/tuliofaria/) [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliofaria/)](https://www.linkedin.com/in/tuliofaria/) </b></sub></a> <a href="https://github.com/tuliofaria" title="githubosias"></a> criador do treinamento **FULLSTACK MASTER**
 
-<a href='https://devpleno.com/'><img alt="palpitebox FSM" src="public/Assets/FSM_branco.png" width="150" ></a>
-
-<a href='https://devpleno.com/'><img alt="palpitebox devpleno" src="public/Assets/logo_devpleno.png" width="150"></a>
+<a href='https://devpleno.com/'><img alt="palpitebox FSM" src="public/Assets/FSM_branco.png" width="150" ></a> <a href='https://devpleno.com/'><img alt="palpitebox devpleno" src="public/Assets/logo_devpleno.png" width="150"></a>
 
 ---
 
